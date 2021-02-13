@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516150509754",
+    "project_id": "belajarfirebase-a3675",
+    "storage_bucket": "belajarfirebase-a3675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516150509754:android:246fb5a196d00976d60283",
+        "android_client_info": {
+          "package_name": "com.alhuft.belajarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516150509754-n8cclak7nk5cslj3bgvje9t8gi73vc50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zGQud-voJQJlzXqN8O-d9iY8Luc1x3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516150509754-n8cclak7nk5cslj3bgvje9t8gi73vc50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
